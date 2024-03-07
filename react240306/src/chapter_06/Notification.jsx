@@ -22,6 +22,18 @@ const styles = {
         this.state = {};
     }
 
+    componentDidMount() {
+        console.log(`${this.props.id} componentDidMount() called.`);
+    }
+
+    componentDidUpdate() {
+        console.log(`${this.props.id} componentDidUpdate() called.`);
+    }
+
+    componentWillUnmount() {
+        console.log(`${this.props.id} componentWillUnmount() called.`);
+    }
+
     render() {
         return (
             <div style={styles.wrapper}>

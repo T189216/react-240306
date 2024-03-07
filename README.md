@@ -17,3 +17,9 @@
 ![--2024-03-07--2 13 59-ezgif com-speed](https://github.com/T189216/react-240306/assets/131805429/22a53e71-0331-4f39-b58e-1d89b486ecc4)
 
 [Code](https://github.com/T189216/react-240306/commit/721fd253c8d63865bfd331973c5985d94d52c65a)
+
+### 카운트
+---
+![--2024-03-08--12 41 35-ezgif com-speed](https://github.com/T189216/react-240306/assets/131805429/ba0becf6-e2bc-44b1-a078-e9fef5203ae1)
+
+[Code](https://github.com/T189216/react-240306/commit/03b731ca0c6b716efe3c78fd9736447bca45042e)

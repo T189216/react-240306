@@ -29,3 +29,9 @@
 ![--2024-03-08--1 21 40-ezgif com-speed](https://github.com/T189216/react-240306/assets/131805429/7ff33ce9-b570-464e-95cc-9960e26295a8)
 
 [Code](https://github.com/T189216/react-240306/commit/8e98420b75d6b3c34344f7f5dda2708c69261c24)
+
+### 사용자 정보 입력받기
+---
+![--2024-03-08--4 08 17-ezgif com-speed](https://github.com/T189216/react-240306/assets/131805429/ab565c43-addc-42ea-a9e2-64e649f7aa16)
+[Code](https://github.com/T189216/react-240306/commit/3dd77cb19663295cb44b15cfd3855520146a67bf)
+

@@ -44,4 +44,5 @@
 ### 프로필 카드
 ---
 <img width="496" alt="image" src="https://github.com/T189216/react-240306/assets/131805429/8487d098-3748-427e-ba00-25ccc81fa0fa">
+
 [Code](https://github.com/T189216/react-240306/commit/1928f089cc0afa42ba398d8129913264585a16a8)
